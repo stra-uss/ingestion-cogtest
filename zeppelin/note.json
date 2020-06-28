@@ -1,0 +1,1426 @@
+{
+  "paragraphs": [
+    {
+      "text": "%md\n### Data Engineering Test",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-27 17:05:23.291",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch3\u003eData Engineering Test\u003c/h3\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593271375783_283302396",
+      "id": "20200627-122255_-2040648766",
+      "dateCreated": "2020-06-27 12:22:55.783",
+      "dateStarted": "2020-06-27 17:05:23.292",
+      "dateFinished": "2020-06-27 17:05:23.300",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\n|                |                                                                                         |  \n| -------------  |:----------------------------------------------------------------------------------------|\n| Autor          | Strauss Cunha Carvalho                                                                  |\n| e-Mail         | engsts@gmail.com                                                                        |\n| Data           | 2020/06/27                                                                              |  \n| Git            | https://github.com/stra-uss/ingestion-cogtest                                           |\n| Linkedin       | https://www.linkedin.com/in/strauss-cunha-carvalho-1a601a15/                            |\n| Lattes         | http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo\u003dapresentar\u0026id\u003dK4226288E5 |             ",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-27 17:05:29.210",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala",
+        "editorHide": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ctable\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth\u003e \u003c/th\u003e\n      \u003cth align\u003d\"left\"\u003e \u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eAutor \u003c/td\u003e\n      \u003ctd align\u003d\"left\"\u003eStrauss Cunha Carvalho \u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003ee-Mail \u003c/td\u003e\n      \u003ctd align\u003d\"left\"\u003e\u003ca href\u003d\"mailto:\u0026#101;\u0026#110;\u0026#103;\u0026#x73;\u0026#116;\u0026#115;\u0026#x40;\u0026#103;\u0026#x6d;\u0026#x61;\u0026#x69;\u0026#x6c;\u0026#46;\u0026#x63;\u0026#111;\u0026#109;\"\u003e\u0026#101;\u0026#110;\u0026#103;\u0026#x73;\u0026#116;\u0026#115;\u0026#x40;\u0026#103;\u0026#x6d;\u0026#x61;\u0026#x69;\u0026#x6c;\u0026#46;\u0026#x63;\u0026#111;\u0026#109;\u003c/a\u003e \u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eData \u003c/td\u003e\n      \u003ctd align\u003d\"left\"\u003e2020/06/27 \u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eGit \u003c/td\u003e\n      \u003ctd align\u003d\"left\"\u003e\u003ca href\u003d\"https://github.com/stra-uss/ingestion-cogtest\"\u003ehttps://github.com/stra-uss/ingestion-cogtest\u003c/a\u003e \u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eLinkedin \u003c/td\u003e\n      \u003ctd align\u003d\"left\"\u003e\u003ca href\u003d\"https://www.linkedin.com/in/strauss-cunha-carvalho-1a601a15/\"\u003ehttps://www.linkedin.com/in/strauss-cunha-carvalho-1a601a15/\u003c/a\u003e \u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eLattes \u003c/td\u003e\n      \u003ctd align\u003d\"left\"\u003e\u003ca href\u003d\"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo\u003dapresentar\u0026id\u003dK4226288E5\"\u003ehttp://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo\u003dapresentar\u0026id\u003dK4226288E5\u003c/a\u003e \u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593280716600_20528132",
+      "id": "20200627-145836_224617399",
+      "dateCreated": "2020-06-27 14:58:36.601",
+      "dateStarted": "2020-06-27 17:05:26.881",
+      "dateFinished": "2020-06-27 17:05:26.898",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\n### Requisitos\n1. Conversão do formato dos arquivos: Converter o arquivo CSV presente no diretório data/input/users/load.csv, para um formato colunar de alta performance de leitura de sua escolha. Justificar brevemente a escolha do formato;\n\n2. Deduplicação dos dados convertidos: No conjunto de dados convertidos haverão múltiplas entradas para um mesmo registro, variando apenas os valores de alguns dos campos entre elas. Será necessário realizar um processo de deduplicação destes dados, a fim de apenas manter a última entrada de cada registro, usando como referência o id para identificação dos registros duplicados e a data de atualização (update_date) para definição do registro mais recente;\n\n3. Conversão do tipo dos dados deduplicados: No diretório config haverá um arquivo JSON de configuração (types_mapping.json), contendo os nomes dos campos e os respectivos tipos desejados de output. Utilizando esse arquivo como input, realizar um processo de conversão dos tipos dos campos descritos, no conjunto de dados deduplicados;\n\n### Notas gerais\n- Todas as operações devem ser realizadas utilizando Spark. O serviço de execução fica a seu critério, podendo utilizar tanto serviços locais como serviços em cloud. Justificar brevemente o serviço escolhido (EMR, Glue, Zeppelin, etc.).\n\n- Cada operação deve ser realizada no dataframe resultante do passo anterior, podendo ser persistido e carregado em diferentes conjuntos de arquivos após cada etapa ou executados em memória e apenas persistido após operação final.\n\n- Você tem liberdade p/ seguir a sequência de execução desejada;\n\n- Solicitamos a transformação de tipos de dados apenas de alguns campos. Os outros ficam a seu critério\n\n- O arquivo ou o conjunto de arquivos finais devem ser compactados e enviados por e-mail.\n",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-27 14:59:08.859",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch3\u003eRequisitos\u003c/h3\u003e\n\u003col\u003e\n  \u003cli\u003e\n  \u003cp\u003eConversão do formato dos arquivos: Converter o arquivo CSV presente no diretório data/input/users/load.csv, para um formato colunar de alta performance de leitura de sua escolha. Justificar brevemente a escolha do formato;\u003c/p\u003e\u003c/li\u003e\n  \u003cli\u003e\n  \u003cp\u003eDeduplicação dos dados convertidos: No conjunto de dados convertidos haverão múltiplas entradas para um mesmo registro, variando apenas os valores de alguns dos campos entre elas. Será necessário realizar um processo de deduplicação destes dados, a fim de apenas manter a última entrada de cada registro, usando como referência o id para identificação dos registros duplicados e a data de atualização (update_date) para definição do registro mais recente;\u003c/p\u003e\u003c/li\u003e\n  \u003cli\u003e\n  \u003cp\u003eConversão do tipo dos dados deduplicados: No diretório config haverá um arquivo JSON de configuração (types_mapping.json), contendo os nomes dos campos e os respectivos tipos desejados de output. Utilizando esse arquivo como input, realizar um processo de conversão dos tipos dos campos descritos, no conjunto de dados deduplicados;\u003c/p\u003e\u003c/li\u003e\n\u003c/ol\u003e\n\u003ch3\u003eNotas gerais\u003c/h3\u003e\n\u003cul\u003e\n  \u003cli\u003e\n  \u003cp\u003eTodas as operações devem ser realizadas utilizando Spark. O serviço de execução fica a seu critério, podendo utilizar tanto serviços locais como serviços em cloud. Justificar brevemente o serviço escolhido (EMR, Glue, Zeppelin, etc.).\u003c/p\u003e\u003c/li\u003e\n  \u003cli\u003e\n  \u003cp\u003eCada operação deve ser realizada no dataframe resultante do passo anterior, podendo ser persistido e carregado em diferentes conjuntos de arquivos após cada etapa ou executados em memória e apenas persistido após operação final.\u003c/p\u003e\u003c/li\u003e\n  \u003cli\u003e\n  \u003cp\u003eVocê tem liberdade p/ seguir a sequência de execução desejada;\u003c/p\u003e\u003c/li\u003e\n  \u003cli\u003e\n  \u003cp\u003eSolicitamos a transformação de tipos de dados apenas de alguns campos. Os outros ficam a seu critério\u003c/p\u003e\u003c/li\u003e\n  \u003cli\u003e\n  \u003cp\u003eO arquivo ou o conjunto de arquivos finais devem ser compactados e enviados por e-mail.\u003c/p\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593280725594_1108197174",
+      "id": "20200627-145845_-2133997322",
+      "dateCreated": "2020-06-27 14:58:45.594",
+      "dateStarted": "2020-06-27 14:59:08.860",
+      "dateFinished": "2020-06-27 14:59:09.017",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\nPara a realização do teste, optou-se por utilizar um ambiente local, devido às instalações das dependências das libs do Pyspark envolvidas e à  otimização do tempo de desenvolvimento.\n\nNa Tabela a seguir, apresenta-se um resumo das tecnologias empregadas e suas respectivas versões.\n\n| Tecnologias                | Versão                         |   \n| ---------------------------|:-------------------------------|\n| Spark                      | 2.4.3                          |\n| Hadoop                     | 3.1.2                          |\n| Zeppelin                   | 0.8.1                          |\n| Sistema operacional local  | Ubuntu Linux 4.15.0-99-generic |\n\n\nObs: devido à renderização do notebook gerado no Apache Zeppelin não apresentar uma visualização adequada no GitHub, o código fonte foi convertido para:\n1 - o formato do Jupyter (conforme repositório Git) https://github.com/stra-uss/ingestion-cogtest; e \n2 - .pdf (em anexo)",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-27 17:04:45.700",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003cp\u003ePara a realização do teste, optou-se por utilizar um ambiente local, devido às instalações das dependências das libs do Pyspark envolvidas e à otimização do tempo de desenvolvimento.\u003c/p\u003e\n\u003cp\u003eNa Tabela a seguir, apresenta-se um resumo das tecnologias empregadas e suas respectivas versões.\u003c/p\u003e\n\u003ctable\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth\u003eTecnologias \u003c/th\u003e\n      \u003cth align\u003d\"left\"\u003eVersão \u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eSpark \u003c/td\u003e\n      \u003ctd align\u003d\"left\"\u003e2.4.3 \u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eHadoop \u003c/td\u003e\n      \u003ctd align\u003d\"left\"\u003e3.1.2 \u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eZeppelin \u003c/td\u003e\n      \u003ctd align\u003d\"left\"\u003e0.8.1 \u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eSistema operacional local \u003c/td\u003e\n      \u003ctd align\u003d\"left\"\u003eUbuntu Linux 4.15.0-99-generic \u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eObs: devido à renderização do notebook gerado no Apache Zeppelin não apresentar uma visualização adequada no GitHub, o código fonte foi convertido para:\u003cbr/\u003e1 - o formato do Jupyter (conforme repositório Git) \u003ca href\u003d\"https://github.com/stra-uss/ingestion-cogtest\"\u003ehttps://github.com/stra-uss/ingestion-cogtest\u003c/a\u003e; e\u003cbr/\u003e2 - .pdf (em anexo)\u003c/p\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593287221813_-319031434",
+      "id": "20200627-164701_2051461735",
+      "dateCreated": "2020-06-27 16:47:01.813",
+      "dateStarted": "2020-06-27 17:04:45.701",
+      "dateFinished": "2020-06-27 17:04:45.716",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\n### 1 - Libraries",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-27 15:01:45.965",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala",
+        "editorHide": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch3\u003e1 - Libraries\u003c/h3\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593280748834_1811983274",
+      "id": "20200627-145908_1576543156",
+      "dateCreated": "2020-06-27 14:59:08.834",
+      "dateStarted": "2020-06-27 15:00:01.172",
+      "dateFinished": "2020-06-27 15:00:01.179",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%spark.pyspark\nfrom pyspark import SparkContext\nfrom pyspark.sql import SQLContext\nfrom pyspark.sql.types import StructType  \nfrom pyspark.sql.types import StructField\nfrom pyspark.sql.types import *\nfrom pyspark.sql.window import Window\nfrom pyspark.sql.functions import rank\nimport json",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-28 00:37:58.967",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": []
+      },
+      "apps": [],
+      "jobName": "paragraph_1593280983230_996904449",
+      "id": "20200627-150303_-1388662059",
+      "dateCreated": "2020-06-27 15:03:03.230",
+      "dateStarted": "2020-06-28 00:37:59.024",
+      "dateFinished": "2020-06-28 00:37:59.316",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\n### 2 - Environment configuration",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-27 15:01:44.600",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala",
+        "editorHide": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch3\u003e2 - Environment configuration\u003c/h3\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593280801152_1428690641",
+      "id": "20200627-150001_813970030",
+      "dateCreated": "2020-06-27 15:00:01.152",
+      "dateStarted": "2020-06-27 15:01:42.835",
+      "dateFinished": "2020-06-27 15:01:42.840",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%spark.pyspark\n\nspark.conf.set(\"spark.sql.execution.arrow.enabled\", \"true\")\nlocal  \u003d \u0027/media/oak/4D38-34DE/Biblioteca/jobs/teste_cognitivo_ai/teste-eng-dados\u0027\ninp \u003d \u0027/data/input/users/\u0027 \nout \u003d \u0027/data/output/\u0027\ncfg \u003d \u0027/config/\u0027\nsc \u003d spark.sparkContext",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-28 00:05:55.848",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": []
+      },
+      "apps": [],
+      "jobName": "paragraph_1593280944703_-771566388",
+      "id": "20200627-150224_-563130194",
+      "dateCreated": "2020-06-27 15:02:24.703",
+      "dateStarted": "2020-06-28 00:06:55.062",
+      "dateFinished": "2020-06-28 00:07:05.269",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\n### 3 - Dataset loading",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-27 16:36:45.489",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch3\u003e3 - Dataset loading\u003c/h3\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593280814966_-1676558812",
+      "id": "20200627-150014_-1644803151",
+      "dateCreated": "2020-06-27 15:00:14.966",
+      "dateStarted": "2020-06-27 16:36:45.490",
+      "dateFinished": "2020-06-27 16:36:45.498",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%spark.pyspark\n\nfile_csv \u003d \u0027load.csv\u0027\ndf_csv_path \u003d local + inp + file_csv\ndf_raw \u003d spark.read.csv(df_csv_path, escape\u003d\u0027\"\u0027, multiLine\u003dTrue,inferSchema\u003dFalse, header\u003dTrue)",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-28 00:49:23.030",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {
+          "1": {
+            "graph": {
+              "mode": "table",
+              "height": 300.0,
+              "optionOpen": false,
+              "setting": {
+                "table": {
+                  "tableGridState": {},
+                  "tableColumnTypeState": {
+                    "names": {
+                      "id": "string",
+                      "name": "string",
+                      "email": "string",
+                      "phone": "string",
+                      "address": "string",
+                      "age": "string",
+                      "create_date": "string",
+                      "update_date": "string"
+                    },
+                    "updated": true
+                  },
+                  "tableOptionSpecHash": "[{\"name\":\"useFilter\",\"valueType\":\"boolean\",\"defaultValue\":false,\"widget\":\"checkbox\",\"description\":\"Enable filter for columns\"},{\"name\":\"showPagination\",\"valueType\":\"boolean\",\"defaultValue\":false,\"widget\":\"checkbox\",\"description\":\"Enable pagination for better navigation\"},{\"name\":\"showAggregationFooter\",\"valueType\":\"boolean\",\"defaultValue\":false,\"widget\":\"checkbox\",\"description\":\"Enable a footer for displaying aggregated values\"}]",
+                  "tableOptionValue": {
+                    "useFilter": false,
+                    "showPagination": false,
+                    "showAggregationFooter": false
+                  },
+                  "updated": false,
+                  "initialized": false
+                }
+              },
+              "commonSetting": {}
+            }
+          }
+        },
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python",
+        "editorHide": false,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": []
+      },
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            "http://192.168.29.9:4040/jobs/job?id\u003d16"
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
+      "apps": [],
+      "jobName": "paragraph_1593282256902_474825055",
+      "id": "20200627-152416_-852519708",
+      "dateCreated": "2020-06-27 15:24:16.902",
+      "dateStarted": "2020-06-28 00:49:23.069",
+      "dateFinished": "2020-06-28 00:49:23.733",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\n#### 3.1 - Dataset raw (.csv) schema",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-28 01:36:48.855",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch4\u003e3.1 - Dataset raw (.csv) schema\u003c/h4\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593286307341_-314262277",
+      "id": "20200627-163147_166952000",
+      "dateCreated": "2020-06-27 16:31:47.342",
+      "dateStarted": "2020-06-28 01:36:48.855",
+      "dateFinished": "2020-06-28 01:36:48.880",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%spark.pyspark\ndf_raw.printSchema()",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-28 00:49:26.381",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "root\n |-- id: string (nullable \u003d true)\n |-- name: string (nullable \u003d true)\n |-- email: string (nullable \u003d true)\n |-- phone: string (nullable \u003d true)\n |-- address: string (nullable \u003d true)\n |-- age: string (nullable \u003d true)\n |-- create_date: string (nullable \u003d true)\n |-- update_date: string (nullable \u003d true)\n\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593282704393_-1516087569",
+      "id": "20200627-153144_-2086346806",
+      "dateCreated": "2020-06-27 15:31:44.393",
+      "dateStarted": "2020-06-28 00:49:26.425",
+      "dateFinished": "2020-06-28 00:49:26.594",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\n####  3.2 - Data Type changing",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-28 00:33:08.205",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch4\u003e3.2 - Data Type changing\u003c/h4\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593315143811_-1092491686",
+      "id": "20200628-003223_-1453759378",
+      "dateCreated": "2020-06-28 00:32:23.811",
+      "dateStarted": "2020-06-28 00:33:08.205",
+      "dateFinished": "2020-06-28 00:33:08.221",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\n##### 3.2.1) Reading the schema from .json file and altering data type\n",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-28 01:38:07.858",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch5\u003e3.2.1) Reading the schema from .json file and altering data type\u003c/h5\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593300583763_1521089430",
+      "id": "20200627-202943_653092530",
+      "dateCreated": "2020-06-27 20:29:43.763",
+      "dateStarted": "2020-06-28 01:38:07.858",
+      "dateFinished": "2020-06-28 01:38:07.891",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%spark.pyspark\nfile_sch \u003d \u0027types_mapping.json\u0027\nwith open(local + cfg + file_sch) as f:\n    schema \u003d StructType.fromJson(json.load(f))\n\nstruct\u003dStructType(fields\u003dschema)\ndf_user \u003dspark.read.csv(df_csv_path,schema\u003dstruct)\ndf_user \u003d df_user.na.drop()    \ndf_user.show()",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-28 01:38:11.205",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "+---+--------------------+--------------------+---------------+--------------------+---+--------------------+--------------------+\n| id|                name|               email|          phone|             address|age|         create_date|         update_date|\n+---+--------------------+--------------------+---------------+--------------------+---+--------------------+--------------------+\n|  1|david.lynch@cogni...|         David Lynch|(11) 99999-9997|Mulholland Drive,...| 72|2018-03-03 18:47:...|2018-03-03 18:47:...|\n|  1|david.lynch@cogni...|         David Lynch|(11) 99999-9998|Mulholland Drive,...| 72|2018-03-03 18:47:...|2018-04-14 17:09:...|\n|  2|sherlock.holmes@c...|     Sherlock Holmes|(11) 94815-1623|221B Baker Street...| 34|2018-04-21 20:21:...|2018-04-21 20:21:...|\n|  3|spongebob.squarep...|Spongebob Squarep...|(11) 91234-5678|124 Conch Street,...| 13|2018-05-19 04:07:...|2018-05-19 04:07:...|\n|  1|david.lynch@cogni...|         David Lynch|(11) 99999-9999|Mulholland Drive,...| 72|2018-03-03 18:47:...|2018-05-23 10:13:...|\n|  3|spongebob.squarep...|Spongebob Squarep...|(11) 98765-4321|122 Conch Street,...| 13|2018-05-19 04:07:...|2018-05-19 05:08:...|\n+---+--------------------+--------------------+---------------+--------------------+---+--------------------+--------------------+\n\n"
+          }
+        ]
+      },
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            "http://192.168.29.9:4040/jobs/job?id\u003d23"
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
+      "apps": [],
+      "jobName": "paragraph_1593318476400_-359834068",
+      "id": "20200628-012756_-542039233",
+      "dateCreated": "2020-06-28 01:27:56.401",
+      "dateStarted": "2020-06-28 01:38:11.248",
+      "dateFinished": "2020-06-28 01:38:12.357",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%spark.pyspark\ndf_user.printSchema()",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-28 01:38:15.971",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "root\n |-- id: integer (nullable \u003d true)\n |-- name: string (nullable \u003d true)\n |-- email: string (nullable \u003d true)\n |-- phone: string (nullable \u003d true)\n |-- address: string (nullable \u003d true)\n |-- age: integer (nullable \u003d true)\n |-- create_date: timestamp (nullable \u003d true)\n |-- update_date: timestamp (nullable \u003d true)\n\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593300833131_-469048778",
+      "id": "20200627-203353_-366886150",
+      "dateCreated": "2020-06-27 20:33:53.131",
+      "dateStarted": "2020-06-28 01:38:16.013",
+      "dateFinished": "2020-06-28 01:38:16.235",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\n#### 3.2 - Dataset user preview (with altered types)\n",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-28 00:30:10.057",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch4\u003e3.2 - Dataset user preview (with altered types)\u003c/h4\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593286354564_-1741000219",
+      "id": "20200627-163234_434725722",
+      "dateCreated": "2020-06-27 16:32:34.565",
+      "dateStarted": "2020-06-28 00:30:10.056",
+      "dateFinished": "2020-06-28 00:30:10.079",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%spark.pyspark\ndf_user.show(10)",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-28 01:38:24.524",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "+---+--------------------+--------------------+---------------+--------------------+---+--------------------+--------------------+\n| id|                name|               email|          phone|             address|age|         create_date|         update_date|\n+---+--------------------+--------------------+---------------+--------------------+---+--------------------+--------------------+\n|  1|david.lynch@cogni...|         David Lynch|(11) 99999-9997|Mulholland Drive,...| 72|2018-03-03 18:47:...|2018-03-03 18:47:...|\n|  1|david.lynch@cogni...|         David Lynch|(11) 99999-9998|Mulholland Drive,...| 72|2018-03-03 18:47:...|2018-04-14 17:09:...|\n|  2|sherlock.holmes@c...|     Sherlock Holmes|(11) 94815-1623|221B Baker Street...| 34|2018-04-21 20:21:...|2018-04-21 20:21:...|\n|  3|spongebob.squarep...|Spongebob Squarep...|(11) 91234-5678|124 Conch Street,...| 13|2018-05-19 04:07:...|2018-05-19 04:07:...|\n|  1|david.lynch@cogni...|         David Lynch|(11) 99999-9999|Mulholland Drive,...| 72|2018-03-03 18:47:...|2018-05-23 10:13:...|\n|  3|spongebob.squarep...|Spongebob Squarep...|(11) 98765-4321|122 Conch Street,...| 13|2018-05-19 04:07:...|2018-05-19 05:08:...|\n+---+--------------------+--------------------+---------------+--------------------+---+--------------------+--------------------+\n\n"
+          }
+        ]
+      },
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            "http://192.168.29.9:4040/jobs/job?id\u003d24"
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
+      "apps": [],
+      "jobName": "paragraph_1593282684178_424296715",
+      "id": "20200627-153124_2093261150",
+      "dateCreated": "2020-06-27 15:31:24.178",
+      "dateStarted": "2020-06-28 01:38:24.559",
+      "dateFinished": "2020-06-28 01:38:25.265",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\n### 4 - Dataset conversion (csv to parquet)",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-28 00:32:10.124",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch3\u003e4 - Dataset conversion (csv to parquet)\u003c/h3\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593280815599_1993520339",
+      "id": "20200627-150015_-574908143",
+      "dateCreated": "2020-06-27 15:00:15.600",
+      "dateStarted": "2020-06-28 00:32:10.124",
+      "dateFinished": "2020-06-28 00:32:10.193",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\nGrosso modo, entre as duas opções mais tradicionais de formato de arquivos colunares presentes no ambiente Hadoop - ORC e o Parquet - optou-se, nesta POC, pelo uso do formato Parquet. \nAlém de satisfazer os requisitos do Teste, citam-se dois motivos básicos pela escolha:\n1) Não há menção às operações de atualização ou escrita no dataframe resultante; e\n2) Não há menção à necessidade de compactação do dataframe resultante, o que, nesta caso, viabilizaria o uso do formato Orc.",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-27 16:31:23.224",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003cp\u003eGrosso modo, entre as duas opções mais tradicionais de formato de arquivos colunares presentes no ambiente Hadoop - ORC e o Parquet - optou-se, nesta POC, pelo uso do formato Parquet.\u003cbr/\u003eAlém de satisfazer os requisitos do Teste, citam-se dois motivos básicos pela escolha:\u003cbr/\u003e1) Não há menção às operações de atualização ou escrita no dataframe resultante; e\u003cbr/\u003e2) Não há menção à necessidade de compactação do dataframe resultante, o que, nesta caso, viabilizaria o uso do formato Orc.\u003c/p\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593283561291_942841529",
+      "id": "20200627-154601_-637584874",
+      "dateCreated": "2020-06-27 15:46:01.292",
+      "dateStarted": "2020-06-27 16:31:23.224",
+      "dateFinished": "2020-06-27 16:31:23.244",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%spark.pyspark\n\nfile_pqt \u003d \u0027load.parquet\u0027\ndf_pqt_path \u003d local + out + file_pqt\ndf_user.write.parquet(df_pqt_path)",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-28 01:39:02.629",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": []
+      },
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            "http://192.168.29.9:4040/jobs/job?id\u003d26"
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
+      "apps": [],
+      "jobName": "paragraph_1593280965303_1270085530",
+      "id": "20200627-150245_1169099045",
+      "dateCreated": "2020-06-27 15:02:45.303",
+      "dateStarted": "2020-06-28 01:39:02.669",
+      "dateFinished": "2020-06-28 01:39:03.836",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\n### 5 - Dataset deduplication",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-27 15:01:25.328",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch3\u003e5 - Dataset deduplication\u003c/h3\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593280815893_-1913770162",
+      "id": "20200627-150015_986894669",
+      "dateCreated": "2020-06-27 15:00:15.893",
+      "dateStarted": "2020-06-27 15:01:25.329",
+      "dateFinished": "2020-06-27 15:01:25.337",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\n#### 5.1 - Read Parquet",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-27 15:43:48.483",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch4\u003e5.1 - Read Parquet\u003c/h4\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593283319011_581343432",
+      "id": "20200627-154159_-532236838",
+      "dateCreated": "2020-06-27 15:41:59.011",
+      "dateStarted": "2020-06-27 15:43:48.473",
+      "dateFinished": "2020-06-27 15:43:48.516",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%spark.pyspark\n\ndf_pqt \u003d spark.read.parquet(df_pqt_path)",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-28 01:39:06.348",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": []
+      },
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            "http://192.168.29.9:4040/jobs/job?id\u003d27"
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
+      "apps": [],
+      "jobName": "paragraph_1593280971015_1930299423",
+      "id": "20200627-150251_-726931096",
+      "dateCreated": "2020-06-27 15:02:51.015",
+      "dateStarted": "2020-06-28 01:39:06.385",
+      "dateFinished": "2020-06-28 01:39:07.146",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\n#### 5.2 - Dataset (parquet) Schema",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-27 16:37:32.887",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch4\u003e5.2 - Dataset (parquet) Schema\u003c/h4\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593286630615_2080010703",
+      "id": "20200627-163710_-926394409",
+      "dateCreated": "2020-06-27 16:37:10.615",
+      "dateStarted": "2020-06-27 16:37:32.888",
+      "dateFinished": "2020-06-27 16:37:32.904",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%spark.pyspark\n\ndf_pqt.printSchema()",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-28 01:39:10.188",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "root\n |-- id: integer (nullable \u003d true)\n |-- name: string (nullable \u003d true)\n |-- email: string (nullable \u003d true)\n |-- phone: string (nullable \u003d true)\n |-- address: string (nullable \u003d true)\n |-- age: integer (nullable \u003d true)\n |-- create_date: timestamp (nullable \u003d true)\n |-- update_date: timestamp (nullable \u003d true)\n\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593283398669_1540201439",
+      "id": "20200627-154318_1063463326",
+      "dateCreated": "2020-06-27 15:43:18.669",
+      "dateStarted": "2020-06-28 01:39:10.233",
+      "dateFinished": "2020-06-28 01:39:10.481",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\n#### 5.3 - Dataset (parquet) Preview",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-27 16:45:09.860",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch4\u003e5.3 - Dataset (parquet) Preview\u003c/h4\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593286661765_-744739744",
+      "id": "20200627-163741_62829408",
+      "dateCreated": "2020-06-27 16:37:41.766",
+      "dateStarted": "2020-06-27 16:45:09.861",
+      "dateFinished": "2020-06-27 16:45:09.872",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%spark.pyspark\n\ndf_pqt.show()",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-28 01:39:14.284",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "+---+--------------------+--------------------+---------------+--------------------+---+--------------------+--------------------+\n| id|                name|               email|          phone|             address|age|         create_date|         update_date|\n+---+--------------------+--------------------+---------------+--------------------+---+--------------------+--------------------+\n|  1|david.lynch@cogni...|         David Lynch|(11) 99999-9997|Mulholland Drive,...| 72|2018-03-03 18:47:...|2018-03-03 18:47:...|\n|  1|david.lynch@cogni...|         David Lynch|(11) 99999-9998|Mulholland Drive,...| 72|2018-03-03 18:47:...|2018-04-14 17:09:...|\n|  2|sherlock.holmes@c...|     Sherlock Holmes|(11) 94815-1623|221B Baker Street...| 34|2018-04-21 20:21:...|2018-04-21 20:21:...|\n|  3|spongebob.squarep...|Spongebob Squarep...|(11) 91234-5678|124 Conch Street,...| 13|2018-05-19 04:07:...|2018-05-19 04:07:...|\n|  1|david.lynch@cogni...|         David Lynch|(11) 99999-9999|Mulholland Drive,...| 72|2018-03-03 18:47:...|2018-05-23 10:13:...|\n|  3|spongebob.squarep...|Spongebob Squarep...|(11) 98765-4321|122 Conch Street,...| 13|2018-05-19 04:07:...|2018-05-19 05:08:...|\n+---+--------------------+--------------------+---------------+--------------------+---+--------------------+--------------------+\n\n"
+          }
+        ]
+      },
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            "http://192.168.29.9:4040/jobs/job?id\u003d28"
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
+      "apps": [],
+      "jobName": "paragraph_1593283399709_-513748761",
+      "id": "20200627-154319_57501225",
+      "dateCreated": "2020-06-27 15:43:19.709",
+      "dateStarted": "2020-06-28 01:39:14.325",
+      "dateFinished": "2020-06-28 01:39:15.035",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\n#### 5.4 - Remove duplicated values",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-28 00:34:46.982",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch4\u003e5.4 - Remove duplicated values\u003c/h4\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593287134838_1106859009",
+      "id": "20200627-164534_368545097",
+      "dateCreated": "2020-06-27 16:45:34.838",
+      "dateStarted": "2020-06-28 00:34:46.980",
+      "dateFinished": "2020-06-28 00:34:46.995",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%spark.pyspark\n\nwindow \u003d Window.partitionBy(\u0027id\u0027).orderBy(df_pqt[\u0027update_date\u0027].desc())\ndf_pqt \u003d df_pqt.withColumn(\"last_update\",rank().over(window))\ndf_final \u003d df_pqt.filter(\"last_update\u003d1\")\ndf_final.show()",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-28 01:39:18.749",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python",
+        "editorHide": false,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "+---+--------------------+--------------------+---------------+--------------------+---+--------------------+--------------------+-----------+\n| id|                name|               email|          phone|             address|age|         create_date|         update_date|last_update|\n+---+--------------------+--------------------+---------------+--------------------+---+--------------------+--------------------+-----------+\n|  1|david.lynch@cogni...|         David Lynch|(11) 99999-9999|Mulholland Drive,...| 72|2018-03-03 18:47:...|2018-05-23 10:13:...|          1|\n|  3|spongebob.squarep...|Spongebob Squarep...|(11) 98765-4321|122 Conch Street,...| 13|2018-05-19 04:07:...|2018-05-19 05:08:...|          1|\n|  2|sherlock.holmes@c...|     Sherlock Holmes|(11) 94815-1623|221B Baker Street...| 34|2018-04-21 20:21:...|2018-04-21 20:21:...|          1|\n+---+--------------------+--------------------+---------------+--------------------+---+--------------------+--------------------+-----------+\n\n"
+          }
+        ]
+      },
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            "http://192.168.29.9:4040/jobs/job?id\u003d29",
+            "http://192.168.29.9:4040/jobs/job?id\u003d30",
+            "http://192.168.29.9:4040/jobs/job?id\u003d31",
+            "http://192.168.29.9:4040/jobs/job?id\u003d32",
+            "http://192.168.29.9:4040/jobs/job?id\u003d33"
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
+      "apps": [],
+      "jobName": "paragraph_1593311459718_311227004",
+      "id": "20200627-233059_379600872",
+      "dateCreated": "2020-06-27 23:30:59.718",
+      "dateStarted": "2020-06-28 01:39:18.789",
+      "dateFinished": "2020-06-28 01:39:23.402",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\n#### 6 - Final dataset storage\n",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-28 00:39:56.033",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch4\u003e6 - Final dataset storage\u003c/h4\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1593312315211_230645028",
+      "id": "20200627-234515_739178242",
+      "dateCreated": "2020-06-27 23:45:15.327",
+      "dateStarted": "2020-06-28 00:39:56.033",
+      "dateFinished": "2020-06-28 00:39:56.050",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%spark.pyspark\n\nfile_pqt \u003d \u0027final.parquet\u0027\ndf_pqt_path \u003d local + out + file_pqt\ndf_final.write.parquet(df_pqt_path)",
+      "user": "anonymous",
+      "dateUpdated": "2020-06-28 01:39:27.851",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": []
+      },
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            "http://192.168.29.9:4040/jobs/job?id\u003d34"
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
+      "apps": [],
+      "jobName": "paragraph_1593315548847_-1671794014",
+      "id": "20200628-003908_-969531753",
+      "dateCreated": "2020-06-28 00:39:08.847",
+      "dateStarted": "2020-06-28 01:39:27.901",
+      "dateFinished": "2020-06-28 01:39:35.688",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "user": "anonymous",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1593317479203_1527459892",
+      "id": "20200628-011119_1898183150",
+      "dateCreated": "2020-06-28 01:11:19.203",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "sts/ingestion/cogtest",
+  "id": "2FEHHEK22",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {
+    "md:shared_process": [],
+    "python:shared_process": [],
+    "angular:shared_process": [],
+    "spark:shared_process": []
+  },
+  "config": {
+    "isZeppelinNotebookCronEnable": false,
+    "looknfeel": "default",
+    "personalizedMode": "false"
+  },
+  "info": {}
+}
